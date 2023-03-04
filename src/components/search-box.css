@@ -1,0 +1,15 @@
+.srch {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 300px;
+  line-height: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-top:1rem;
+  color:rgb(135, 28, 28);
+  text-align:center;
+  font-size:large;
+  border:4px solid rgb(0, 0, 0);
+}
